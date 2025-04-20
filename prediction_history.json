@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-04-20T07:11:06.846984",
+    "country": "Japan",
+    "confidence": 100.0,
+    "rotation": 0,
+    "image_path": "download.png"
+  },
+  {
+    "timestamp": "2025-04-20T07:11:26.252841",
+    "country": "Japan",
+    "confidence": 100.0,
+    "rotation": 0,
+    "image_path": "download.png"
+  },
+  {
+    "timestamp": "2025-04-20T07:12:02.703340",
+    "country": "Japan",
+    "confidence": 100.0,
+    "rotation": 0,
+    "image_path": "download.png"
+  },
+  {
+    "timestamp": "2025-04-20T07:15:03.671786",
+    "country": "Japan",
+    "confidence": 100.0,
+    "rotation": 0,
+    "image_path": "download.png"
+  }
+]
